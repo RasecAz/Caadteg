@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SLnmz4rGa7LXLteMAGDsR0V1fqXo4WhT/tmCMNyH5SY=",
+  "Source": "CaadTec.API",
+  "BasePath": "_content/CaadTec.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

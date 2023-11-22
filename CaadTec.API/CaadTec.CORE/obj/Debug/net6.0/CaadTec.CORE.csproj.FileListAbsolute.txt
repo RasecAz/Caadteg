@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.CORE\bin\Debug\net6.0\CaadTec.CORE.deps.json
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.CORE\bin\Debug\net6.0\CaadTec.CORE.dll
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.CORE\bin\Debug\net6.0\CaadTec.CORE.pdb
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.CORE\obj\Debug\net6.0\CaadTec.CORE.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.CORE\obj\Debug\net6.0\CaadTec.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.CORE\obj\Debug\net6.0\CaadTec.CORE.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.CORE\obj\Debug\net6.0\CaadTec.CORE.AssemblyInfo.cs
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.CORE\obj\Debug\net6.0\CaadTec.CORE.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.CORE\obj\Debug\net6.0\CaadTec.CORE.dll
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.CORE\obj\Debug\net6.0\refint\CaadTec.CORE.dll
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.CORE\obj\Debug\net6.0\CaadTec.CORE.pdb
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.CORE\obj\Debug\net6.0\ref\CaadTec.CORE.dll
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.CORE\obj\Debug\net6.0\CaadTec.Core.sourcelink.json

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CaadTec.API.props" />
+</Project>

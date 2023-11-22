@@ -1,0 +1,16 @@
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.Infraestructure\bin\Debug\net6.0\CaadTec.Infraestructure.deps.json
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.Infraestructure\bin\Debug\net6.0\CaadTec.Infraestructure.dll
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.Infraestructure\bin\Debug\net6.0\CaadTec.Infraestructure.pdb
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.Infraestructure\obj\Debug\net6.0\CaadTec.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.Infraestructure\obj\Debug\net6.0\CaadTec.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.Infraestructure\obj\Debug\net6.0\CaadTec.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.Infraestructure\obj\Debug\net6.0\CaadTec.Infraestructure.AssemblyInfo.cs
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.Infraestructure\obj\Debug\net6.0\CaadTec.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.Infraestructure\obj\Debug\net6.0\CaadTec.Infraestructure.dll
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.Infraestructure\obj\Debug\net6.0\refint\CaadTec.Infraestructure.dll
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.Infraestructure\obj\Debug\net6.0\CaadTec.Infraestructure.pdb
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.Infraestructure\obj\Debug\net6.0\ref\CaadTec.Infraestructure.dll
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.Infraestructure\bin\Debug\net6.0\CaadTec.Core.dll
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.Infraestructure\bin\Debug\net6.0\CaadTec.Core.pdb
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.Infraestructure\obj\Debug\net6.0\CaadTec.Infraestructure.csproj.CopyComplete
+C:\Users\usuario\source\repos\caadTec-back\CaadTec.API\CaadTec.Infraestructure\obj\Debug\net6.0\CaadTec.Infraestructure.sourcelink.json
